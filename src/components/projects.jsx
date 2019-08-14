@@ -14,99 +14,88 @@ export default class Projects extends Component {
 						</div>
 						<div className="row">
 							<div className="col-md-4 animate-box" data-animate-effect="fadeInLeft">
-								<div className="project" style={{backgroundImage: 'url(images/img-1.jpg)'}}>
+								<div className="project" style={{backgroundImage: 'url(images/shirt.png)'}}>
 									<div className="desc">
 										<div className="con">
-											<h3><a href="work.html">Work 01</a></h3>
-											<span>Website</span>
-											<p className="icon">
-												<span><a href="#"><i className="icon-share3" /></a></span>
-												<span><a href="#"><i className="icon-eye" /> 100</a></span>
-												<span><a href="#"><i className="icon-heart" /> 49</a></span>
+											<h3><a href="work.html">Merch Site</a></h3>
+											<span>Concept in React for a Band or Merch</span>
+											<p className="icon">		
+												<span><a href="https://github.com/sshann30/Band-T-shirts">Github Link</a></span>
+												<span><a href="https://powerful-journey-20024.herokuapp.com/">Deployed Link</a></span>
 											</p>
 										</div>
 									</div>
 								</div>
 							</div>
 							<div className="col-md-4 animate-box" data-animate-effect="fadeInRight">
-								<div className="project" style={{backgroundImage: 'url(images/img-2.jpg)'}}>
+								<div className="project" style={{backgroundImage: 'url(images/omega.png)'}}>
 									<div className="desc">
 										<div className="con">
-											<h3><a href="work.html">Work 02</a></h3>
-											<span>Animation</span>
+											<h3><a href="work.html">Ωmega Chat (Project 3)</a></h3>
+											<span>Fraternity Networking App</span>
 											<p className="icon">
-												<span><a href="#"><i className="icon-share3" /></a></span>
-												<span><a href="#"><i className="icon-eye" /> 100</a></span>
-												<span><a href="#"><i className="icon-heart" /> 49</a></span>
+											<span><a href="https://github.com/mspenski/Omega-Chat"> Github Link</a></span>
+											<span><a href="https://rocky-island-31181.herokuapp.com/"> Deployed Link</a></span>
 											</p>
 										</div>
 									</div>
 								</div>
 							</div>
 							<div className="col-md-4 animate-box" data-animate-effect="fadeInTop">
-								<div className="project" style={{backgroundImage: 'url(images/img-3.jpg)'}}>
+								<div className="project" style={{backgroundImage: 'url(images/shady.png)'}}>
 									<div className="desc">
 										<div className="con">
-											<h3><a href="work.html">Work 03</a></h3>
-											<span>Illustration</span>
+											<h3><a href="work.html">Shady Servers (Project 2)</a></h3>
+											<span>Fortnite Player Finder</span>
 											<p className="icon">
-												<span><a href="#"><i className="icon-share3" /></a></span>
-												<span><a href="#"><i className="icon-eye" /> 100</a></span>
-												<span><a href="#"><i className="icon-heart" /> 49</a></span>
+											<span><a href="https://github.com/sshann30/Project2RoughStart"> Github Link</a></span>
+											<span><a href="https://salty-caverns-51624.herokuapp.com/"> Deployed Link</a></span>
 											</p>
 										</div>
 									</div>
 								</div>
 							</div>
 							<div className="col-md-4 animate-box" data-animate-effect="fadeInBottom">
-								<div className="project" style={{backgroundImage: 'url(images/img-4.jpg)'}}>
+								<div className="project" style={{backgroundImage: 'url(images/art.png)'}}>
 									<div className="desc">
 										<div className="con">
-											<h3><a href="work.html">Work 04</a></h3>
+											<h3><a href="work.html">Arti-Sense (Project 1)</a></h3>
 											<span>Application</span>
 											<p className="icon">
-												<span><a href="#"><i className="icon-share3" /></a></span>
-												<span><a href="#"><i className="icon-eye" /> 100</a></span>
-												<span><a href="#"><i className="icon-heart" /> 49</a></span>
+											<span><a href="https://github.com/sshann30/FirstProject"> Github Link</a></span>
+											<span><a href="https://sshann30.github.io/FirstProject/"> Deployed Link</a></span>
 											</p>
 										</div>
 									</div>
 								</div>
 							</div>
 							<div className="col-md-4 animate-box" data-animate-effect="fadeInLeft">
-								<div className="project" style={{backgroundImage: 'url(images/img-5.jpg)'}}>
+								<div className="project" style={{backgroundImage: 'url(images/Train.png)'}}>
 									<div className="desc">
 										<div className="con">
-											<h3><a href="work.html">Work 05</a></h3>
-											<span>Graphic, Logo</span>
+											<h3><a href="work.html">Train Scheduler</a></h3>
+											<span>Firebase driven application for train times</span>
 											<p className="icon">
-												<span><a href="#"><i className="icon-share3" /></a></span>
-												<span><a href="#"><i className="icon-eye" /> 100</a></span>
-												<span><a href="#"><i className="icon-heart" /> 49</a></span>
+											<span><a href="https://github.com/sshann30/Firebase-Assignment---Train-Scheduler"> Github Link</a></span>
+											<span><a href="https://sshann30.github.io/Firebase-Assignment---Train-Scheduler/"> Deployed Link</a></span>
 											</p>
 										</div>
 									</div>
 								</div>
 							</div>
 							<div className="col-md-4 animate-box" data-animate-effect="fadeInRight">
-								<div className="project" style={{backgroundImage: 'url(images/img-6.jpg)'}}>
+								<div className="project" style={{backgroundImage: 'url(images/Trivia.png)'}}>
 									<div className="desc">
 										<div className="con">
-											<h3><a href="work.html">Work 06</a></h3>
-											<span>Web Design</span>
+											<h3><a href="work.html">Trivia Game</a></h3>
+											<span>A Chicago Sport Quiz</span>
 											<p className="icon">
-												<span><a href="#"><i className="icon-share3" /></a></span>
-												<span><a href="#"><i className="icon-eye" /> 100</a></span>
-												<span><a href="#"><i className="icon-heart" /> 49</a></span>
+											<span><a href="https://github.com/sshann30/TriviaGame"> Github Link</a></span>
+											<span><a href="https://sshann30.github.io/TriviaGame/"> Deployed Link</a></span>
 											</p>
 										</div>
 									</div>
 								</div>
-							</div>
-						</div>
-						<div className="row">
-							<div className="col-md-12 animate-box">
-								<p><a href="#" className="btn btn-primary btn-lg btn-load-more">Load more <i className="icon-reload" /></a></p>
 							</div>
 						</div>
 					</div>
