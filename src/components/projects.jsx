@@ -60,7 +60,7 @@ export default class Projects extends Component {
 									<div className="desc">
 										<div className="con">
 											<h3><a href="work.html">Arti-Sense (Project 1)</a></h3>
-											<span>Application</span>
+											<span>Api Info from Youtube </span>
 											<p className="icon">
 											<span><a href="https://github.com/sshann30/FirstProject"> Github Link</a></span>
 											<span><a href="https://sshann30.github.io/FirstProject/"> Deployed Link</a></span>

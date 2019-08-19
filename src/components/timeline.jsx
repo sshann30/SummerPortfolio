@@ -33,7 +33,7 @@ export default class Timeline extends Component {
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2>UNCC Full Stack Development Bootcamp  <span>September 2018 – Current</span></h2>
+                        <h2>UNCC Full Stack Development Bootcamp  <span>November 2018 – March 2019</span></h2>
                         <p>Continuing Education Program: Full Stack Coding Bootcamp</p>
                         <p>Intensive full time 12-week program: Building foundational skills in Full Stack Development</p>
                       </div>
