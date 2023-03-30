@@ -14,7 +14,7 @@ export default class Projects extends Component {
 						</div>
 						<div className="row">
 							<div className="col-md-4 animate-box" data-animate-effect="fadeInLeft">
-								<div className="project" style={{ backgroundImage: `url(require(images/shirt.png))` }}>
+								<div className="project" style={{ backgroundImage: "url(../../public/images/shirt.png))" }}>
 									<div className="desc">
 										<div className="con">
 											<h3><a href="work.html">Merch Site</a></h3>
@@ -28,7 +28,7 @@ export default class Projects extends Component {
 								</div>
 							</div>
 							<div className="col-md-4 animate-box" data-animate-effect="fadeInRight">
-								<div className="project" style={{backgroundImage: '(C:\Users\Steve\Desktop\SummerPortfolio\public\images\omega.png)'}}>
+								<div className="project" style={{backgroundImage: '(C:/Users/Steve/Desktop/SummerPortfolio/public/images/omega.png)'}}>
 									<div className="desc">
 										<div className="con">
 											<h3><a href="work.html">Ωmega Chat (Project 3)</a></h3>
