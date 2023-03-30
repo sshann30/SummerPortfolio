@@ -38,7 +38,7 @@ export default class About extends Component {
                 </span>
                 <div className="desc">
                     <h3>Web Development </h3>
-                    <p>I have experience building websites and chrome extentions using a Variety of technologies and languages</p>
+                    <p>I have experience building websites and applications using a Variety of technologies and languages</p>
                 </div>
                 </div>
             </div>
