@@ -1,2 +1,5 @@
-# Steve Shannon Portfolio
-[basic npms to install and start]
+Steve Shannon Portfolio
+
+run basic npms
+
+i remember posting something on linkedin for the reactscripts issues.
